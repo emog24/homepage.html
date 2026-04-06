@@ -1,8 +1,19 @@
-<html>
-<style>
-    body {
-Background-image: url(‘https://emog24.github.io/homepage.html/images/brick.jpg’);
-background-size: cover;
-         }
-</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>This is Me</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1 class="title">This is Me</h1>
+
+  <!-- Decorative elements -->
+  <img src="flower1.png" class="flower f1">
+  <img src="flower2.png" class="flower f2">
+  <img src="paint1.png" class="paint p1">
+  <img src="paint2.png" class="paint p2">
+
+</body>
 </html>
