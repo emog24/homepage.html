@@ -1,21 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>This is Me</title>
-  <link rel="stylesheet" href="style.css">
+<style>
+    body{
+      background-color: baby blue;
+      color: black;
+      text-align: center;
+        }
+</style>
+  <title> F1 </title>
 </head>
 <body>
-
-  <h1 class="title">This is Me</h1>
-
-  <!-- Flowers -->
-  <img src="flower1.jpg" class="flower f1">
-  <img src="flower2.jpg" class="flower f2">
-
-  <!-- Paint splatters -->
-  <img src="paint1.jpg" class="paint p1">
-  <img src="paint2.jpg" class="paint p2">
-
-</body>
+  <h1>
+Ferrari F1
+  </h1>
 </html>
