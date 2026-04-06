@@ -1,1 +1,10 @@
-
+<html>
+<style>
+    body {
+  background-image: url('brick.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+</style>
+</html>
