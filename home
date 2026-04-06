@@ -1,6 +1,8 @@
-<style>
+<html>
 body {
-Background-image: url(‘https://emog24.github.io/images/wall.gif’);
-background-repeat: repeat;
+  background-image: url('brick.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
-</style>
+</html>
