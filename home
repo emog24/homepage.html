@@ -2,15 +2,19 @@
 <head>
 <style>
     body{
-      background-color: baby blue;
-      color: black;
+      background-color: #9CAF88;
+      color: white;
       text-align: center;
         }
 </style>
-  <title> F1 </title>
+<title> Me </title>
 </head>
 <body>
   <h1>
-Ferrari F1
+This is Me
   </h1>
+<table>
+  <tr>
+    <th> 
+      <img src="https://emog24.github.io/homepage.html/images/one.jpg" width="300" height="300">
 </html>
